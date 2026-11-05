@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+    <!-- Links the external CSS file below -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>A simple site built with clean HTML & CSS.</p>
+    </header>
+
+    <main>
+        <section class="card">
+            <h2>About This Project</h2>
+            <p>HTML provides the structure of the page, while CSS handles the presentation, layout, and colors.</p>
+            <button class="btn">Click Me</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website</p>
+    </footer>
+
+</body>
+</html>
